@@ -1,0 +1,81 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ssh -X x131REB191@213.175.92.22
+    4  VirtualBox --startvm XP
+    5  quartus
+    6  whoami
+    7  who
+    8  pwd
+    9  ls
+   10  ls -l
+   11  ls
+   12  cd Music/
+   13  pwd
+   14  ls
+   15  exit
+   16  histori
+   17  history
+   18  cd Music/
+   19  ls
+   20  pwd
+   21  ls -a
+   22  ls -la
+   23  pwd
+   24  cd
+   25  pwd
+   26  cd
+   27  pwd
+   28  cd
+   29  pwd
+   30  ls -la
+   31  pwd
+   32  cd
+   33  pwd
+   34  cd
+   35  pwd
+   36  cd
+   37  pwd
+   38  cd
+   39  pwd
+   40  cd .
+   41  pwd
+   42  cd ..
+   43  pwd
+   44  ls -la
+   45  pwd
+   46  cd ..
+   47  pwd
+   48  cd .
+   49  pwd
+   50  cd /home/user/
+   51  pwd
+   52  cd /
+   53  pwd
+   54  cd ~
+   55  pwd
+   56  cd /
+   57  pwd
+   58  cd /
+   59  pwd
+   60  cd
+   61  pwd
+   62  mkdir ManaMape
+   63  ls -l
+   64  cd ManaMape/
+   65  pwd
+   66  ls
+   67  ls -la
+   68  cd ..
+   69  pwd
+   70  rmdir ManaMape/
+   71  ls -l
+   72  mkdir ManaMape/
+   73  cd ManaMape/
+   74  mkdir ManaApakshMape
+   75  cd ManaApakshMape/
+   76  pwd
+   77  cd
+   78  rmdir
+   79  man rm
+   80  history 
+   81  history > history_20181009.txt
