@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=LTspice IV
+Exec=env WINEPREFIX="/home/user/.wine" wine C:\\\\Program\\ Files\\ \\(x86\\)\\\\LTC\\\\LTspiceIV\\\\scad3.exe 
+Type=Application
+StartupNotify=true
+Comment=Linear Technology Corporation's LTspice IV
+Path=/home/user/.wine/dosdevices/c:/Program Files (x86)/LTC/LTspiceIV
+Icon=0E18_scad3.0
