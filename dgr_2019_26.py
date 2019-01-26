@@ -4,7 +4,11 @@
 # Datums: ....
 # Plotting legends in Matplotlib
 
+import sys
+sys.path.append('/usr/local/anaconda3/lib/python3.6/site-packages')
+
 # -*- coding: utf-8 -*-
+from matplotlib import pyplot as plt
 import matplotlib.pyplot as plt
 import matplotlib.collections as mcol
 from matplotlib.legend_handler import HandlerLineCollection, HandlerTuple
